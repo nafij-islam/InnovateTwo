@@ -1,0 +1,37 @@
+.navber-section{
+    position: absolute;
+    width: 100%;
+    top: 32px;
+    left: 0;
+    z-index: 10 ;
+    background-color: transparent;
+}
+
+.menu{
+    gap: 50px;
+    align-items: center;
+}
+
+.menu .list-item{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "DM Sans", sans-serif;
+    color: white;
+
+}
+.menu .list-item:hover{
+    color: #43E7DF;
+
+}
+
+.navber-btn1{
+    padding: 20px 48px;
+     font-family: "DM Sans", sans-serif;
+     font-size: 18px;
+     font-weight: 500;
+     background-color:#43E7DF ;
+     border-radius: 5px;
+     border: none;
+     
+}
+

@@ -1,0 +1,72 @@
+.platfrom-section{
+    padding: 160px 0px;
+    
+}
+
+.plat-heading{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 116px;
+}
+
+.plat-heading p{
+    width: 530px;
+    font-size: 18px;
+    font-weight: 400;
+     font-family: "DM Sans", sans-serif;
+}
+
+
+.plat-heading h2{
+    width: 530px;
+    font-size:46px;
+    font-weight: 700;
+     font-family: "Chivo", sans-serif;
+}
+.platcard-main{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card-main{
+   text-align: center;
+   position: relative;
+   transition: 0.6s;
+   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.203);
+}
+
+.card-main h3{
+    width: 290px;
+    padding-top: 26px;
+    padding-bottom: 12px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Chivo", sans-serif;
+}
+
+.card-main p{
+    width: 280px;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+     font-family: "DM Sans", sans-serif;
+
+}
+
+.platdirection{
+    position: absolute;
+    top: 40px;
+    right: -250px;
+}
+
+.platdirection2{
+    position: absolute;
+    top: 10px;
+    right: -250px;
+}
+.card-main:hover{
+    box-shadow: 2px 5px 30px #36e6dd;
+    
+
+}

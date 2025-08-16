@@ -1,0 +1,15 @@
+.busimain{
+    position: relative;
+    transform: translateX(-100px);
+}
+
+.buimg1{
+    position: absolute;
+    top: 90px;
+    left: 0;
+    z-index: -1;
+}
+
+.busimain .business{
+    
+}

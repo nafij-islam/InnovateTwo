@@ -1,7 +1,7 @@
 .navber-section{
     position: absolute;
     width: 100%;
-    top: 32px;
+    top: 20px;
     left: 0;
     z-index: 10 ;
     background-color: transparent;
@@ -32,6 +32,17 @@
      background-color:#43E7DF ;
      border-radius: 5px;
      border: none;
+     border: 2px solid transparent;
+      transition: 0.4s;
      
+}
+
+.navber-section .navber-btn1:hover{
+    background-color: transparent;
+    border:2px solid white;
+    color: white;
+    background-color: rgb(249, 118, 217);
+   
+    
 }
 

@@ -1,15 +1,75 @@
+.business-section{
+    padding-bottom: 55px;
+}
+
+
+.business-heading{
+    font-size: 46px;
+    font-weight: 700;
+    width: 600px;
+     font-family: "Chivo", sans-serif;
+}
+
+.busi-card-main{
+    padding-top: 64px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 70px;
+    row-gap: 50px;
+}
+
+.busi-card-main h2{
+    padding-top: 14px;
+    padding-bottom: 6px;
+    font-size: 22px;
+    font-family: "Chivo", sans-serif;
+    font-weight: 700;
+
+}
+
+.busi-card-main p{
+   
+    padding-bottom: 6px;
+    font-size: 18px;
+    width: 220px;
+    margin: 0px;
+}
+
+.busi-card-main button{
+    margin-top: 100px;
+    background-color: #3639A4;
+    color: white;
+    padding: 20px 48px;
+    border: none;
+    border-radius:4px;
+    margin-left: 0px;
+    border: 2px solid transparent;
+    transition: 0.5s;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Chivo", sans-serif;
+
+}
+
+
+.busi-card-main button:hover{
+    background-color: rgb(249, 118, 217);
+    border: 2px solid rgb(0, 0, 0);
+    color: black;
+
+}
+
+
+
 .busimain{
-    position: relative;
-    transform: translateX(-100px);
+    width: 100%;
+}
+.img-main{
+    width: 80%;
+    transform: translateX(-130px);
 }
 
-.buimg1{
-    position: absolute;
-    top: 90px;
-    left: 0;
-    z-index: -1;
-}
 
-.busimain .business{
-    
+.busi-right1{
+    padding-left: 45px;
 }

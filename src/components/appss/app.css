@@ -1,0 +1,36 @@
+.app-section{
+    padding: 100px 0px;
+    background-color: #F4FAFA;
+}
+
+.apps-p{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "DM Sans", sans-serif;
+    color: #FF7364;
+    padding-bottom: 4px;
+}
+.apps-head{
+    font-size: 46px;
+    font-weight: 700;
+    font-family: "Chivo", sans-serif;
+    width: 574px;
+    padding-bottom: 20px;
+}
+
+.apps-pera{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;
+    width: 535px;
+    padding-bottom: 40px;
+    margin: 0px;
+}
+
+.apps-btn{
+    padding: 20px 48px 20px 48px;
+    background-color: #3639A4;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}

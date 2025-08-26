@@ -2,12 +2,15 @@
   background: url(../../assets//bannerimg.png);
   background-position: top;
   background-repeat: no-repeat;
+  background-size: cover;
+  
   
 }
 
 .banner-section .banner-text {
   padding-top: 195px;
   text-align: center;
+  
 
 }
 
@@ -36,8 +39,11 @@
 } 
 
 .banner-img2{
+  transform: translateY(120px);
+    
     display: flex;
     justify-content: center;
+    
     
 }
 

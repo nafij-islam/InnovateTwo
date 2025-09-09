@@ -1,6 +1,9 @@
 .app-section{
-    padding: 100px 0px;
-    background-color: #F4FAFA;
+    padding: 140px 0px;
+   background-image: url(../../assets/appdbg.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 .apps-p{
@@ -33,4 +36,5 @@
     color: white;
     border: none;
     border-radius: 6px;
+    margin-bottom: 20px;
 }

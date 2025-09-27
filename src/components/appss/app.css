@@ -8,9 +8,10 @@
 
 .apps-p{
     font-size: 20px;
+    padding-top: 80px;
     font-weight: 500;
     font-family: "DM Sans", sans-serif;
-    color: #FF7364;
+    color: #f56454;
     padding-bottom: 4px;
 }
 .apps-head{
@@ -19,6 +20,7 @@
     font-family: "Chivo", sans-serif;
     width: 574px;
     padding-bottom: 20px;
+    
 }
 
 .apps-pera{
@@ -26,7 +28,7 @@
     font-weight: 400;
     font-family: "DM Sans", sans-serif;
     width: 535px;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     margin: 0px;
 }
 
@@ -37,4 +39,7 @@
     border: none;
     border-radius: 6px;
     margin-bottom: 20px;
+}
+.brandlogo{
+    width: 660px;
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import "./app.css";
 import { Container,Row,Col } from "react-bootstrap";
+import brandlogo from '../../assets/Brand Logo.png'
 
 const Apps = () => {
   return (
@@ -21,7 +22,9 @@ const Apps = () => {
             </div>
           </Col>
 
-          <Col lg={{ span: 6, offset: 1 }}></Col>
+          <Col lg={{ span: 6, offset: 1 }}>
+            <img className="brandlogo" src={brandlogo} alt="" />
+          </Col>
         </Row>
       </Container>
     </section>
